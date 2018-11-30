@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/EverlynAsiko/SendIT#readme",
   "dependencies": {
+    "celebrate": "^9.0.1",
     "express": "^4.16.4",
-    "helmet": "^3.15.0"
+    "helmet": "^3.15.0",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
     "dotenv": "^6.1.0"
