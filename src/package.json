@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EverlynAsiko/SendIT/issues"
   },
-  "homepage": "https://github.com/EverlynAsiko/SendIT#readme"
+  "homepage": "https://github.com/EverlynAsiko/SendIT#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
